@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Post Type Glossaries\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-12 07:02+0000\n"
+"PO-Revision-Date: 2017-06-12 07:04+0000\n"
+"Last-Translator: Horttcore <me@horttcore.de>\n"
+"Language-Team: German\n"
+"Language: de-DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: classes/class.custom-post-type-glossaries.php:60
+msgctxt "post type general name"
+msgid "Glossaries"
+msgstr "Glossare"
+
+#: classes/class.custom-post-type-glossaries.php:61
+msgctxt "post type singular name"
+msgid "Glossary"
+msgstr "Glossar"
+
+#: classes/class.custom-post-type-glossaries.php:62
+msgctxt "Glossary"
+msgid "Add New"
+msgstr "Erstellen"
+
+#: classes/class.custom-post-type-glossaries.php:63
+msgid "Add New Glossary"
+msgstr "Neuen Glossar erstellen"
+
+#: classes/class.custom-post-type-glossaries.php:64
+msgid "Edit Glossary"
+msgstr "Glossar bearbeiten"
+
+#: classes/class.custom-post-type-glossaries.php:65
+msgid "New Glossary"
+msgstr "Neuer Glossar"
+
+#: classes/class.custom-post-type-glossaries.php:66
+msgid "View glossary"
+msgstr "Glossar ansehen"
+
+#: classes/class.custom-post-type-glossaries.php:68
+msgid "Search Glossaries"
+msgstr "Glossare durchsuchen"
+
+#: classes/class.custom-post-type-glossaries.php:69
+msgid "No glossaries found"
+msgstr "Keine Glossare gefunden."
+
+#: classes/class.custom-post-type-glossaries.php:70
+msgid "No glossaries found in Trash"
+msgstr "Keine Glossare im Papierkorb gefunden."
+
+#: classes/class.custom-post-type-glossaries.php:71
+msgid "Parent Glossary:"
+msgstr "Übergeordneter Glossar:"
+
+#: classes/class.custom-post-type-glossaries.php:72
+msgid "All Glossaries"
+msgstr "Alle Glossare"
+
+#: classes/class.custom-post-type-glossaries.php:73
+msgid "Glossary Archive"
+msgstr "Glossar-Archive"
+
+#: classes/class.custom-post-type-glossaries.php:74
+msgid "Glossary Attributes"
+msgstr "Glossar-Attribute"
+
+#: classes/class.custom-post-type-glossaries.php:75
+msgid "Insert into glossary"
+msgstr "In den Glossar einfügen"
+
+#: classes/class.custom-post-type-glossaries.php:76
+msgid "Uploaded to this glossary"
+msgstr "In den Glossar einfügen"
+
+#: classes/class.custom-post-type-glossaries.php:77
+msgid "Featured Image"
+msgstr "Glossarsbild"
+
+#: classes/class.custom-post-type-glossaries.php:78
+msgid "Set featured image"
+msgstr "Glossarsbild festlegen"
+
+#: classes/class.custom-post-type-glossaries.php:79
+msgid "Remove featured image"
+msgstr "Glossarsbild entfernen"
+
+#: classes/class.custom-post-type-glossaries.php:80
+msgid "Use as featured image"
+msgstr "Als Glossarsbild nutzen"
+
+#: classes/class.custom-post-type-glossaries.php:81
+msgid "Filter glossaries list"
+msgstr "Glossarsliste filtern"
+
+#: classes/class.custom-post-type-glossaries.php:82
+msgid "Glossaries list navigation"
+msgstr "Navigation der Glossarsliste"
+
+#: classes/class.custom-post-type-glossaries.php:83
+msgid "Glossaries list"
+msgstr "Glossarsliste"
+
+#: classes/class.custom-post-type-glossaries.php:84
+msgid "Glossaries"
+msgstr "Glossare"
+
+#: classes/class.custom-post-type-glossaries.php:91
+msgctxt "Post Type Slug"
+msgid "glossaries"
+msgstr "glossare"
+
+#. Name of the plugin
+#. Description of the plugin
+msgid "Custom Post Type Glossaries"
+msgstr "Custom Post Type Glossare"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://horttcore.de"
+msgstr "https://horttcore.de"
+
+#. Author of the plugin
+msgid "Ralf Hortt"
+msgstr "Ralf Hortt"
